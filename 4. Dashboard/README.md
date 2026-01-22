@@ -14,9 +14,11 @@ The dashboard provides a high-level summary of insights to support data-driven d
 Due to file upload limitations on GitHub, dashboard screenshots are hosted externally.
 
 Access screenshots here:
-[Google Drive – Dashboard Screenshots]((https://drive.google.com/drive/folders/1tyFISU49VWPcIAia4KreRWDi__L6UdKs?usp=drive_link))
+[Google Drive – Dashboard Screenshots]([PASTE_LINK_HERE](https://drive.google.com/drive/folders/1tyFISU49VWPcIAia4KreRWDi__L6UdKs?usp=drive_link))
+
 
 ## Tableau File
 
 The Tableau dashboard file (.twbx) can be accessed here:
-[Download Tableau Dashboard]((https://drive.google.com/file/d/1q_1R45zY2RvSkcOAtdLhgNHkAxTma7TE/view?usp=drive_link))
+[Download Tableau Dashboard]([PASTE_LINK_HERE](https://drive.google.com/file/d/1q_1R45zY2RvSkcOAtdLhgNHkAxTma7TE/view?usp=drive_link))
+
