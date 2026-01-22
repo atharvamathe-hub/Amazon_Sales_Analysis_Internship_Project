@@ -15,3 +15,8 @@ Due to file upload limitations on GitHub, dashboard screenshots are hosted exter
 
 Access screenshots here:
 [Google Drive – Dashboard Screenshots]((https://drive.google.com/drive/folders/1tyFISU49VWPcIAia4KreRWDi__L6UdKs?usp=drive_link))
+
+## Tableau File
+
+The Tableau dashboard file (.twbx) can be accessed here:
+[Download Tableau Dashboard]((https://drive.google.com/file/d/1q_1R45zY2RvSkcOAtdLhgNHkAxTma7TE/view?usp=drive_link))
